@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## About me: 👋
+- I'm a Python Developer.
+- 🌱 I’m currently learning Python and C++. 
 <!--
 **BalDim1971/BalDim1971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
