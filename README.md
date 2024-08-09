@@ -2,6 +2,7 @@
     <div id="header" align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajd3OXE1emJ2dnhxa3YwbDZ3d2h0MHNiaWN4enJ3Zm0wbnB3dWh1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>    
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB4bjJtbXVvNnE5Z3FrdGd5N3R2ZHA3N29sMmk1aHpseGh3OWZobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="100"/>
+        <img src="https://giphy.com/gifs/getmanfred-c-programming-language-lenguaje-GwtfUx2P2HnvByDZdg" width="100"/>
     </div>
 </div>
 
